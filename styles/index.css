@@ -1,0 +1,29 @@
+.box{
+	background-color: yellow;
+	border: 2px dotted red;
+	overflow: hidden;
+	width: 100%;
+	height: 550px;
+	text-align: center;
+	padding: 35px 0 0 0;
+}
+
+.box2{
+	font-weight: bold;
+	font-size: 60px;
+	font-family: ;
+}
+.box3{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: ;
+}
+
+img{
+	border: 2px solid black;
+	}
+
+.box4{
+	font-weight: bold;
+	font-size:15px;
+}
